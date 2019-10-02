@@ -13,3 +13,4 @@ Make a site for promoting Hacktoberfest 2019. We love shirts and code. Mostly sh
 - Mike Vensel
 - Bobby Byrnes
 - Ashalini
+- Nicholas True
