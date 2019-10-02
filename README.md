@@ -12,4 +12,5 @@ Make a site for promoting Hacktoberfest 2019. We love shirts and code. Mostly sh
 - Hunter Horsman
 - Mike Vensel
 - Bobby Byrnes
-- Taufik Algi F
+- Ashalini
+- Nicholas True
