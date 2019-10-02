@@ -10,3 +10,6 @@ Unknown beyond "hello world".
 
 - Dan Tascher
 - Hunter Horsman
+- Mike Vensel
+- Bobby Byrnes
+- Taufik Algi F
