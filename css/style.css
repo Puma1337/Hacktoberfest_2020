@@ -40,14 +40,10 @@ body {
     border-radius: 30px;
 }
 
-p, h1 {
+p, h1, h3 {
     text-align: center;
     font-family:Arial, Helvetica, sans-serif;
     padding:5px 10px;
-}
-
-.bigWhite {
-    color:#fff;
 }
 
 .button > svg {
@@ -63,15 +59,10 @@ p, h1 {
 
 #share-buttons {
     display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
+    justify-content: center;
 }
 
-#share-buttons > .button {
-    height: 42px;
-    width: 120px;
+.share-button {
+    padding: 5px 15px;
+    text-decoration: none;
 }
-
-#share-buttons > * {
-    vertical-align: middle;
-  }
