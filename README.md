@@ -1,4 +1,4 @@
-# Hacktoberfest_2019
+# Hacktoberfest_2020
 
 This is the readme for the JUB CLUB Hacktoberfest 2019 project.
 
