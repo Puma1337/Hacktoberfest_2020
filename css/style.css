@@ -22,8 +22,8 @@ body {
 }
 
 .button {
-    background-color: #0069ff;
-    border-color: #0069ff;
+    background-color: #5b6987;;
+    border-color: #5b6987;;
     border-width: 0;
     color: white;
     text-decoration: none;
@@ -51,11 +51,11 @@ p, h1 {
 }
 
 .button > svg {
-    background-color: #a11ec6;
+    background-color: #9c4668;
 } 
 
 .button > span {
-    background-color: #a11ec6;
+    background-color: #9c4668;
     color: white;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
