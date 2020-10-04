@@ -1,5 +1,5 @@
 * {
-  background-color: #183E5E;
+  background-color: #072540;
   color: rgb(255, 255, 255);
 }
 
@@ -22,8 +22,8 @@ body {
 }
 
 .button {
-    background-color: #5b6987;;
-    border-color: #5b6987;;
+    background-color: rgb(24, 61, 93);
+    border-color: rgb(24, 61, 93);;
     border-width: 0;
     color: white;
     text-decoration: none;
@@ -51,7 +51,7 @@ p, h1 {
 }
 
 .button > svg {
-    background-color: #9c4668;
+    background-color: rgb(24, 61, 93);
 } 
 
 .button > span {
@@ -63,15 +63,28 @@ p, h1 {
 
 #share-buttons {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 #share-buttons > .button {
-    height: 42px;
-    width: 120px;
+    cursor: pointer;
+    margin-top: 16px;
+    margin-right: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    border-radius: 64px;
+    padding: 0px;
 }
 
 #share-buttons > * {
     vertical-align: middle;
   }
+
+.linkedin-icon {
+    content: url(../images/social-dark-linkedin.svg) !important;
+}
