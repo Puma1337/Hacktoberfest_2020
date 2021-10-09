@@ -1,6 +1,6 @@
 * {
-  background-color: #183E5E;
-  color: rgb(255, 255, 255);
+  background-color: #f4f0e1;;
+  color: rgba(181,58,37)
 }
 
 body {
@@ -22,8 +22,8 @@ body {
 }
 
 .button {
-    background-color: #5b6987;;
-    border-color: #5b6987;;
+    background-color: rgba(247,71,0);
+    border-color: rgba(247,71,0);
     border-width: 0;
     color: white;
     text-decoration: none;
