@@ -14,3 +14,4 @@ Make a site for promoting Hacktoberfest 2020. We love shirts and code. Mostly sh
 - Bobby Byrnes
 - Ashalini
 - Nicholas True
+- Harsh
